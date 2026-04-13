@@ -126,7 +126,6 @@ If you use this pipeline or build on this work, please cite: Karaoglu, S., Imran
 
 <div align="center">
 
-*Built on the [SEITRNet](https://github.com/skaraoglu/SEITRNet) compartmental framework · [Pontryagin's Maximum Principle](https://en.wikipedia.org/wiki/Pontryagin%27s_maximum_principle) · [L-BFGS-B](https://en.wikipedia.org/wiki/Limited-memory_BFGS) box-constrained optimization · [Rcpp](https://www.rcpp.org/) compiled simulation kernel*
+*Built on the [SEITRNet](https://github.com/skaraoglu/SEITRNet) compartmental framework · [Pontryagin's Maximum Principle](https://en.wikipedia.org/wiki/Pontryagin%27s_maximum_principle) · [L-BFGS-B](https://en.wikipedia.org/wiki/Limited-memory_BFGS) box-constrained optimization*
 
 </div>
-
