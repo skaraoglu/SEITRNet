@@ -1,5 +1,11 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero_d_dark.png">
+  <img alt="SEITRNet — Network-based SEITR epidemic modeling in R"
+       src="assets/hero_d_dark.png" width="250">
+</picture>
+
 # SEITRNet
 
 ### Network-based SEITR epidemic modeling in R
