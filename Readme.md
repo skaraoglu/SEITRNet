@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero_d_dark.png">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero_a_dark.png">
   <img alt="SEITRNet — Network-based SEITR epidemic modeling in R"
-       src="assets/hero_d_dark.png" width="250">
+       src="assets/hero_a_dark.png" width="450">
 </picture>
 
 # SEITRNet
