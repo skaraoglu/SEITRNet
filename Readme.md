@@ -53,7 +53,7 @@ The intended audience is researchers in mathematical epidemiology, network scien
 
 ```mermaid
 flowchart LR
-    L((Λ)) -->|birth| S
+    L((birth)) -->|Λ| S
     S -->|β₁ S I / N| E
     E -->|β₂| I
     I -->|β₃| R
